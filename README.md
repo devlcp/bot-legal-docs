@@ -1,4 +1,4 @@
-# Maurice Moss Bot - Documentación Legal y Soporte
+# Moss Bot - Documentación Legal y Soporte
 
 Este repositorio contiene los términos legales, directrices de uso y políticas de privacidad requeridas para el funcionamiento, distribución y verificación oficial de **[Nombre de tu Bot]** en la plataforma Discord.
 
